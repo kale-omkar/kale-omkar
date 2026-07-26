@@ -52,7 +52,7 @@ I also spend a lot of time outside my own projects. As **President of the Hackat
 
 ## 🚀 Featured Projects
 
-### 🛡️ Aegis AI — Disaster Management & Resource Optimization
+### 🛡️ [Aegis AI — Disaster Management & Resource Optimization](https://github.com/kale-omkar/Disaster-Resource-Optimizer-AI)
 
 ![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat-square&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-333333?style=flat-square&logo=react&logoColor=61DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat-square&logo=mongodb&logoColor=47A248) ![Python](https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=FFD43B)
 
@@ -61,7 +61,7 @@ An AI-powered disaster response platform built to cut through chaos when it matt
 - Achieved **~95% triage accuracy** and reduced coordination time by **~40%** through automated SMS report processing and intelligent case routing
 - Built a full-stack resource optimization system for **10+ emergency stations**, using an **offline-first PWA architecture** to keep coordination running in low-connectivity areas
 
-### 🎯 SaralMatch — AI Job Recommendation Engine
+### 🎯 [SaralMatch — AI Job Recommendation Engine](https://github.com/kale-omkar/SaralMatch-AI-Powered-Job-Recommendation-Engine)
 
 ![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat-square&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-333333?style=flat-square&logo=react&logoColor=61DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat-square&logo=mongodb&logoColor=47A248) ![Transformers](https://img.shields.io/badge/Transformer_Model-333333?style=flat-square&logo=googlegemini&logoColor=8E75B2)
 
