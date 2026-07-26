@@ -12,9 +12,11 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write   # <-- required so the push step below can write to the "output" branch
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate snake animation (light + dark)
         uses: Platane/snk/svg-only@v3
