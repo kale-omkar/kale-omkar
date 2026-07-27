@@ -61,6 +61,8 @@ An AI-powered disaster response platform built to cut through chaos when it matt
 - Achieved **~95% triage accuracy** and reduced coordination time by **~40%** through automated SMS report processing and intelligent case routing
 - Built a full-stack resource optimization system for **10+ emergency stations**, using an **offline-first PWA architecture** to keep coordination running in low-connectivity areas
 
+<img src="./profile/pin-aegis.svg" width="400" alt="Aegis AI repo card"/>
+
 ### 🎯 [SaralMatch — AI Job Recommendation Engine](https://github.com/kale-omkar/SaralMatch-AI-Powered-Job-Recommendation-Engine)
 
 ![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat-square&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-333333?style=flat-square&logo=react&logoColor=61DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat-square&logo=mongodb&logoColor=47A248) ![Transformers](https://img.shields.io/badge/Transformer_Model-333333?style=flat-square&logo=googlegemini&logoColor=8E75B2)
@@ -69,6 +71,8 @@ A full-stack recommendation engine that matches people to jobs on substance, not
 
 - Increased match relevance accuracy by **33%** using Transformer-based semantic matching across **120+ job attributes**
 - Automated resume parsing with **Google GenAI**, cutting manual data entry by **100%** across 10+ industries
+
+<img src="./profile/pin-saralmatch.svg" width="400" alt="SaralMatch repo card"/>
 
 <br/>
 

@@ -29,6 +29,22 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate pin card (Aegis AI)
+        uses: stats-organization/github-readme-stats-action@f9d8133845f40d659a754f78b8484983ba766448 # v2.0.1
+        with:
+          card: pin
+          options: username=kale-omkar&repo=Disaster-Resource-Optimizer-AI&hide_border=true&bg_color=0F2027&title_color=38BDF8&text_color=C9D6DF
+          path: profile/pin-aegis.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card (SaralMatch)
+        uses: stats-organization/github-readme-stats-action@f9d8133845f40d659a754f78b8484983ba766448 # v2.0.1
+        with:
+          card: pin
+          options: username=kale-omkar&repo=SaralMatch-AI-Powered-Job-Recommendation-Engine&hide_border=true&bg_color=0F2027&title_color=38BDF8&text_color=C9D6DF
+          path: profile/pin-saralmatch.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
